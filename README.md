@@ -5,4 +5,5 @@ Alternatively, Geocoding is the process of determining geographic coordinates fr
 
 -   Batch geocoding: Geocoding multiple addresses, place names or codes at one time.
 -   Reverse geocoding: This is the process by which geographic coordinates are converted into a physical address. Determining the nearest street address for a given point location specified as a latitude and longitude. 
+- Pattern Matching: location based resolutions
 
